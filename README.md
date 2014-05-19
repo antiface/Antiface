@@ -10,3 +10,6 @@ Antiface
 * I looked at signalling games, Bayesian Games, screening games, Blotto games, all sorts of games, trying to track down what was being written about the non-cooperative, for it seems a major oversight that those using such game-theoretic concepts, such as in the fields of evolutionary biology and so forth, would time after time presume that animals would necessarily seek to be altruistic at all times, and that non-cooperation, or Defection if you will, would always be an aberration.
 * I merely asked myself, What if my strategy always started with Defection?
 * I looked at the main characteristics or features of Trigger Strategies, for instance:
+* ...
+* The AntiOs Desktop
+* ![The AntiOS Desktop] (http://chumly.com/file/al/alex.20140519T185309.jxvkxqk.jpeg)
