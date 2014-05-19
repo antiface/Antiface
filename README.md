@@ -12,4 +12,4 @@ Antiface
 * I looked at the main characteristics or features of Trigger Strategies, for instance:
 * ...
 * The AntiOs Desktop
-* ![The AntiOS Desktop] (http://chumly.com/file/al/alex.20140519T185309.jxvkxqk.jpeg)
+![The AntiOS Desktop] (http://chumly.com/file/al/alex.20140519T185309.jxvkxqk.jpeg)
