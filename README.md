@@ -12,10 +12,9 @@ Antiface
 * I looked at the main characteristics or features of Trigger Strategies, for instance:
 * ...
 * The AntiOs Desktop
-![The AntiOS Desktop] (http://chumly.com/file/al/alex.20140519T185309.jxvkxqk.jpeg)
-![The AntiOS Desktop] (https://lh5.googleusercontent.com/-LAEakK8Rq_8/U3ptUUb8jsI/AAAAAAAAFLA/0Kt4-Bp6-ps/w901-h400-no/AntiOSDesktop_19May14dFINAL2.jpg)
+![The AntiOS Desktop](http://chumly.com/file/al/alex.20140519T185309.jxvkxqk.jpeg)
+![The AntiOS Desktop](https://lh5.googleusercontent.com/-LAEakK8Rq_8/U3ptUUb8jsI/AAAAAAAAFLA/0Kt4-Bp6-ps/w901-h400-no/AntiOSDesktop_19May14dFINAL2.jpg)
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
